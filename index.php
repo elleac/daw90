@@ -1,1 +1,1 @@
-<h1>Curso de despliegue</h1>
+<h1>Curso de despliegue con Openshift</h1>
